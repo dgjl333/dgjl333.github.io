@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-14T17:21:49+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DG3</title><subtitle>DG3 website</subtitle><entry><title type="html">Placer</title><link href="http://localhost:4000/Placer/" rel="alternate" type="text/html" title="Placer" /><published>2024-01-13T00:00:00+09:00</published><updated>2024-01-13T00:00:00+09:00</updated><id>http://localhost:4000/Placer</id><content type="html" xml:base="http://localhost:4000/Placer/"><![CDATA[<p>A powerful object manipulation tool for Unity</p>
+
+<ul>
+  <li>Automatically align the object to the surface normal.</li>
+  <li>Scatter objects within a specified range with customizable minimum spacing.</li>
+  <li>Customizable random rotation, scale, height setting.</li>
+  <li>Delete objects within a specified range with a red highlighted outline.</li>
+  <li>Snap already existing objects to the mouse position.</li>
+  <li>Display a grey preview outline with intersection highlighted before placing objects.</li>
+  <li>Custom shortcuts to speed up workflow.</li>
+  <li>Dragging and dropping the object from the hierarchy will automatically convert it to the right prefab.
+<br />
+<br /></li>
+</ul>
+
+<div class="row">
+    
+    <div style="flex: 50.0%">
+        <img src="/assets/img/Placer1.png" alt="Placer1.png" />
+    </div>
+    
+    <div style="flex: 50.0%">
+        <img src="/assets/img/Placer2.png" alt="Placer2.png" />
+    </div>
+    
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[A powerful object manipulation tool for Unity]]></summary></entry><entry><title type="html">Aerial Attack</title><link href="http://localhost:4000/Aerial-Attack/" rel="alternate" type="text/html" title="Aerial Attack" /><published>2024-01-13T00:00:00+09:00</published><updated>2024-01-13T00:00:00+09:00</updated><id>http://localhost:4000/Aerial-Attack</id><content type="html" xml:base="http://localhost:4000/Aerial-Attack/"><![CDATA[<p>An immersive VR multiplayer experience where players defend against waves of enemy helicopters made for VRChat</p>
+
+<ul>
+  <li>A variety of explosive weapons to take down AI helicopters</li>
+  <li>A mutiplayer experience synchronized seamlessly among up to 16 players</li>
+  <li>Compatible with both VR and desktop platforms</li>
+  <li>Players also face the unexpected challange of battling each other
+<br /><br /></li>
+</ul>
+
+<div class="row">
+    
+    <div style="flex: 100.0%">
+        <img class="single" src="/assets/img/Aerial-Attack.png" alt="Aerial-Attack.png" />
+    </div>
+    
+</div>
+
+<p><br /></p>
+
+<p>Launch the world from <a href="https://vrchat.com/home/launch?worldId=wrld_e1a304db-bca2-4364-ba46-82f83990fbe7">vrchat.com/home/launch?worldId=wrld_e1a304db-bca2-4364-ba46-82f83990fbe7</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[An immersive VR multiplayer experience where players defend against waves of enemy helicopters made for VRChat]]></summary></entry></feed>
