@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-14T19:20:47+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DG3</title><subtitle>DG3 website</subtitle><entry><title type="html">Placer</title><link href="http://localhost:4000/Placer/" rel="alternate" type="text/html" title="Placer" /><published>2024-01-13T00:00:00+09:00</published><updated>2024-01-13T00:00:00+09:00</updated><id>http://localhost:4000/Placer</id><content type="html" xml:base="http://localhost:4000/Placer/"><![CDATA[<p>A powerful object manipulation tool for Unity</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-03-02T02:35:08+09:00</updated><id>/feed.xml</id><title type="html">DG3</title><subtitle>DG3 website</subtitle><entry><title type="html">Particle</title><link href="/Particle/" rel="alternate" type="text/html" title="Particle" /><published>2025-01-12T00:00:00+09:00</published><updated>2025-01-12T00:00:00+09:00</updated><id>/Particle</id><content type="html" xml:base="/Particle/"><![CDATA[<p>DirectX 12を使用して独自のパーティクルレンダリングアプリケーション</p>
 
-<ul>
-  <li>Automatically align the object to the surface normal.</li>
-  <li>Scatter objects within a specified range with customizable minimum spacing.</li>
-  <li>Customizable random rotation, scale, height setting.</li>
-  <li>Delete objects within a specified range with a red highlighted outline.</li>
-  <li>Snap already existing objects to the mouse position.</li>
-  <li>Display a grey preview outline with intersection highlighted before placing objects.</li>
-  <li>Custom shortcuts to speed up workflow.</li>
-  <li>Dragging and dropping the object from the hierarchy will automatically convert it to the right prefab.
-<br />
-<br /></li>
-</ul>
+<p>ノイズ関数を活用し、大量のパーティクルが滑らかに動く表現を実現しました。コンピュートシェーダーを使用することで、百万以上のパーティクルを効率的に処理し、負荷を軽減しています。パーティクルの色は動きに応じて連続的に変化し、美しいエフェクトを生み出しています。さらに、UIから内部パラメータをリアルタイムで調整可能で、マウスの動きに反応してパーティクルが引き寄せられたり反発したりするインタラクティブな挙動にもこだわっています。</p>
+
+<p>ソースコード : <a href="https://github.com/dgjl333/particle">https://github.com/dgjl333/particle</a></p>
+
+<p>動画 : <a href="https://youtu.be/eE3eA1znGzQ">https://youtu.be/eE3eA1znGzQ</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[DirectX 12を使用して独自のパーティクルレンダリングアプリケーション]]></summary></entry><entry><title type="html">Placer</title><link href="/Placer/" rel="alternate" type="text/html" title="Placer" /><published>2024-01-12T00:00:00+09:00</published><updated>2024-01-12T00:00:00+09:00</updated><id>/Placer</id><content type="html" xml:base="/Placer/"><![CDATA[<p>Unity拡張ツールカスタムオブジェクト配置システム</p>
+
+<p>Unityには物体の表面に合わせてオブジェクトを配置する機能がないため、自作しました。このツールは、オブジェクトを自動的に表面の法線に合わせるだけでなく、指定範囲内でのランダムな回転・スケール・高さの調整も可能です。さらに、配置前のプレビュー表示にもこだわり、子オブジェクトまで正確に表示されるよう設計しました。既存オブジェクトのスナップ機能やカスタムショートカットにも対応しています。現在、Unityアセットストアで公開中です。
+<br /></p>
+
+<p>ソースコード : <a href="https://github.com/dgjl333/placer">https://github.com/dgjl333/placer</a></p>
+
+<p>Unityアセットストア : <a href="https://assetstore.unity.com/packages/slug/275126">https://assetstore.unity.com/packages/slug/275126</a></p>
 
 <div class="row">
     
@@ -23,23 +23,10 @@
         <img src="/assets/img/Placer2.png" alt="Placer2.png" />
     </div>
     
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[A powerful object manipulation tool for Unity]]></summary></entry><entry><title type="html">Aerial Attack</title><link href="http://localhost:4000/Aerial-Attack/" rel="alternate" type="text/html" title="Aerial Attack" /><published>2024-01-13T00:00:00+09:00</published><updated>2024-01-13T00:00:00+09:00</updated><id>http://localhost:4000/Aerial-Attack</id><content type="html" xml:base="http://localhost:4000/Aerial-Attack/"><![CDATA[<p>An immersive VR multiplayer experience where players defend against waves of enemy helicopters made for VRChat</p>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Unity拡張ツールカスタムオブジェクト配置システム]]></summary></entry><entry><title type="html">Blended Realities</title><link href="/Blended%20Realities/" rel="alternate" type="text/html" title="Blended Realities" /><published>2024-01-11T00:00:00+09:00</published><updated>2024-01-11T00:00:00+09:00</updated><id>/Blended-Realities</id><content type="html" xml:base="/Blended%20Realities/"><![CDATA[<p>Unityで制作した二つの現実が切り替わるインタラクティブな作品</p>
 
-<ul>
-  <li>A variety of explosive weapons to take down AI helicopters</li>
-  <li>A mutiplayer experience synchronized seamlessly among up to 16 players</li>
-  <li>Compatible with both VR and desktop platforms</li>
-  <li>Players also face the unexpected challange of battling each other
-<br /><br /></li>
-</ul>
+<p>ユーザーの動きに応じてリアルタイムに空間が混ざり合う表現を目指し、VRChatというプラットフォーム上で公開する作品を制作しました。最初は普通の部屋に見えますが、ボタンを押すと空間が徐々に変化していく演出にこだわっています。特にシェーダー演出に力を入れ、Triplanar Mappingを用いたエフェクトシェーダーも自作しました。VR上での体験を考慮し、ライトベイクを行いました。空間が変化する前後の二つの状態のライトマップ情報が必要だったため、Unityのスタンダードシェーダーを改造しました。さらに、モデリングやテクスチャ作成にも挑戦し、作品のクオリティを高めました。</p>
 
-<div class="row">
-    
-    <div style="flex: 100.0%">
-        <img class="single" src="/assets/img/Aerial-Attack.png" alt="Aerial-Attack.png" />
-    </div>
-    
-</div>
+<p>VRChat : <a href="https://vrchat.com/home/launch?worldId=wrld_9bac261a-cbc5-4723-899a-6abf1ba0d0e9">https://vrchat.com/home/launch?worldId=wrld_9bac261a-cbc5-4723-899a-6abf1ba0d0e9</a></p>
 
-<p><br />
-Launch the world through <a href="https://vrchat.com/home/launch?worldId=wrld_e1a304db-bca2-4364-ba46-82f83990fbe7">vrchat.com/home/launch?worldId=wrld_e1a304db-bca2-4364-ba46-82f83990fbe7</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[An immersive VR multiplayer experience where players defend against waves of enemy helicopters made for VRChat]]></summary></entry></feed>
+<p>動画 : <a href="https://youtu.be/QhbcZYiC7JM">https://youtu.be/QhbcZYiC7JM</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Unityで制作した二つの現実が切り替わるインタラクティブな作品]]></summary></entry></feed>
